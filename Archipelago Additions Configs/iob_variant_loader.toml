@@ -1,0 +1,22 @@
+
+["Inheritance Chance"]
+	#Defines the chance of dragon inheriting variant of their parents. 1 means variant will always be the same as their parents one
+	#Range: 0.0 ~ 1.0
+	inheritance_chance = 1.0
+
+["Assign Egg Variant on Breeding"]
+	#Enables variant assignment on breeding. If false, all eggs always will have no variant assigned during breeding
+	assign_egg_variant_on_breeding = true
+
+["Assign Egg Variant on Placed"]
+	#Enables variant assignment when egg is placed and has empty or invalid variant tag. If false, all eggs always will have no variant assigned when placed
+	assign_egg_variant_on_placed = false
+
+["Log Variant Spawns"]
+	#Logs any added variant spawn in console for easier debugging
+	log_variant_spawns = false
+
+["Log Hitbox Redirects"]
+	#Logs any added hitbox redirects in console for easier debugging
+	log_hitbox_redirects = false
+

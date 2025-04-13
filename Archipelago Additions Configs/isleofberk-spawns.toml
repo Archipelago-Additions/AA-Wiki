@@ -1,0 +1,48 @@
+
+# Dragon Spawn Config
+[Stinger]
+	# Dragon spawn Biomes and Values can be adjusted using this Config.
+	# value 1: The spawn Weight, used for the given Biomes.
+	# value 2: The Minimum Count to spawn.
+	# value 3: The Maximum Count to spawn.
+	# value 4: The Biomes to spawn in.
+	# If there is a different desired value of weight/counts simply add a new list entry.
+	# Stinger
+	stinger_data = []
+
+["Terrible Terror"]
+	# Terrible Terror
+	terrible_terror_data = []
+
+["Deadly Nadder"]
+	# Galeslash, Dramillion, Graveknapper, Hushboggle, Razorwhip, Screaming Death, Scuttleclaw, Whispering Death, Deadly Nadder
+	deadly_nadder_data = []
+
+[Gronckle]
+	# Hotburple, Magma Breather, Rumblehorn, Gronckle
+	gronckle_data = []
+
+["Hideous Zippleback"]
+	# Snaptrapper, Zippleback
+	zippleback_data = []
+
+["Light Fury"]
+	# Flightmare, Changewing, Sandwraith, Light Fury
+	light_fury_data = []
+
+["Night Fury"]
+	# Silver Phantom, Woolly Howl, Night Fury
+	night_fury_data = []
+
+["Monstrous Nightmare"]
+	# Singetail, Armorwing, Boneknapper, Stormcutter, Sentinel, Storming Nightmare, Monstrous Nightmare
+	nightmare_data = []
+
+[Skrill]
+	# Skrillknapper, Skrill
+	skrill_data = []
+
+["Triple Stryke"]
+	# Deathgripper, Singe Stryke, Triple Stryke
+	triple_stryke_data = []
+
