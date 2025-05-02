@@ -427,10 +427,10 @@
     "biome": "minecraft:snowy_slopes",
     "spawns": [
       {
-        "dragonType": "isleofberk:monstrous_nightmare",
+        "dragonType": "isleofberk:deadly_nadder",
         "spawnWeight": 10,
         "minPackSize": 1,
-        "maxPackSize": 1
+        "maxPackSize": 2
       },
       {
         "dragonType": "isleofberk:skrill",
@@ -744,13 +744,13 @@
     "spawns": [
       {
         "dragonType": "isleofberk:deadly_nadder",
-        "spawnWeight": 10,
+        "spawnWeight": 20,
         "minPackSize": 1,
         "maxPackSize": 2
       },
       {
         "dragonType": "isleofberk:light_fury",
-        "spawnWeight": 2,
+        "spawnWeight": 1,
         "minPackSize": 1,
         "maxPackSize": 1
       }
@@ -760,20 +760,20 @@
     "biome": "minecraft:frozen_river",
     "spawns": [
       {
+        "dragonType": "isleofberk:deadly_nadder",
+        "spawnWeight": 15,
+        "minPackSize": 1,
+        "maxPackSize": 1
+      },
+      {
         "dragonType": "isleofberk:monstrous_nightmare",
         "spawnWeight": 10,
         "minPackSize": 1,
         "maxPackSize": 1
       },
       {
-        "dragonType": "isleofberk:deadly_nadder",
-        "spawnWeight": 5,
-        "minPackSize": 1,
-        "maxPackSize": 1
-      },
-      {
         "dragonType": "isleofberk:light_fury",
-        "spawnWeight": 3,
+        "spawnWeight": 1,
         "minPackSize": 1,
         "maxPackSize": 1
       }
@@ -784,7 +784,7 @@
     "spawns": [
       {
         "dragonType": "isleofberk:monstrous_nightmare",
-        "spawnWeight": 10,
+        "spawnWeight": 5,
         "minPackSize": 1,
         "maxPackSize": 1
       },
@@ -799,7 +799,13 @@
         "spawnWeight": 3,
         "minPackSize": 1,
         "maxPackSize": 1
-      }
+      },
+      {
+        "dragonType": "isleofberk:light_fury",
+        "spawnWeight": 3,
+        "minPackSize": 1,
+        "maxPackSize": 1
+      }    
     ]
   },
   {
