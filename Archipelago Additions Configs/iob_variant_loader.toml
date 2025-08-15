@@ -20,3 +20,10 @@
 	#Logs any added hitbox redirects in console for easier debugging
 	log_hitbox_redirects = false
 
+["Log Sound Redirects"]
+	#Logs any added sound redirects in console for easier debugging
+	log_sound_redirects = false
+
+["Log Extras"]
+	#Logs any added extras in console for easier debugging
+	log_extras = false
