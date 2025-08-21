@@ -185,7 +185,7 @@
         "spawnWeight": 10,
         "minPackSize": 2,
         "maxPackSize": 3
-      }
+      },
       {
         "dragonType": "isleofberk:light_fury",
         "spawnWeight": 5,
