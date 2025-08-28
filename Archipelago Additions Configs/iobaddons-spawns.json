@@ -426,6 +426,12 @@
         "minPackSize": 1,
         "maxPackSize": 2
       },
+	  {
+        "dragonType": "isleofberk:monstrous_nightmare",
+        "spawnWeight": 7,
+        "minPackSize": 2,
+        "maxPackSize": 2
+      },
       {
         "dragonType": "isleofberk:skrill",
         "spawnWeight": 5,
@@ -469,7 +475,13 @@
       {
         "dragonType": "isleofberk:gronckle",
         "spawnWeight": 10,
-        "minPackSize": 1,
+        "minPackSize": 2,
+        "maxPackSize": 3
+      },
+	  {
+        "dragonType": "isleofberk:monstrous_nightmare",
+        "spawnWeight": 5,
+        "minPackSize": 2,
         "maxPackSize": 2
       },
       {
@@ -535,20 +547,38 @@
   {
     "biome": "minecraft:savanna",
     "spawns": [
+	  {
+        "dragonType": "isleofberk:terrible_terror",
+        "spawnWeight": 10,
+        "minPackSize": 2,
+        "maxPackSize": 4
+      },
       {
         "dragonType": "isleofberk:stinger",
-        "spawnWeight": 10,
+        "spawnWeight": 8,
         "minPackSize": 1,
         "maxPackSize": 2
       },
       {
         "dragonType": "isleofberk:monstrous_nightmare",
-        "spawnWeight": 5,
+        "spawnWeight": 6,
         "minPackSize": 1,
         "maxPackSize": 1
       },
       {
         "dragonType": "isleofberk:triple_stryke",
+        "spawnWeight": 5,
+        "minPackSize": 1,
+        "maxPackSize": 1
+      },
+	  {
+        "dragonType": "isleofberk:night_fury",
+        "spawnWeight": 3,
+        "minPackSize": 1,
+        "maxPackSize": 1
+      },
+      {
+        "dragonType": "isleofberk:gronckle",
         "spawnWeight": 3,
         "minPackSize": 1,
         "maxPackSize": 1
@@ -565,13 +595,13 @@
         "maxPackSize": 2
       },
       {
-        "dragonType": "isleofberk:gronckle",
+        "dragonType": "isleofberk:monstrous_nightmare",
         "spawnWeight": 5,
         "minPackSize": 1,
         "maxPackSize": 2
       },
       {
-        "dragonType": "isleofberk:monstrous_nightmare",
+        "dragonType": "isleofberk:gronckle",
         "spawnWeight": 3,
         "minPackSize": 1,
         "maxPackSize": 1
@@ -588,13 +618,13 @@
         "maxPackSize": 2
       },
       {
-        "dragonType": "isleofberk:gronckle",
-        "spawnWeight": 5,
+        "dragonType": "isleofberk:monstrous_nightmare",
+        "spawnWeight": 3,
         "minPackSize": 1,
         "maxPackSize": 2
       },
       {
-        "dragonType": "isleofberk:monstrous_nightmare",
+        "dragonType": "isleofberk:gronckle",
         "spawnWeight": 3,
         "minPackSize": 1,
         "maxPackSize": 1
@@ -605,14 +635,32 @@
     "biome": "minecraft:badlands",
     "spawns": [
       {
-        "dragonType": "isleofberk:gronckle",
+        "dragonType": "isleofberk:terrible_terror",
         "spawnWeight": 10,
+        "minPackSize": 2,
+        "maxPackSize": 4
+      },
+	  {
+        "dragonType": "isleofberk:gronckle",
+        "spawnWeight": 7,
         "minPackSize": 1,
         "maxPackSize": 1
       },
       {
         "dragonType": "isleofberk:triple_stryke",
         "spawnWeight": 5,
+        "minPackSize": 1,
+        "maxPackSize": 1
+      },
+	  {
+        "dragonType": "isleofberk:monstrous_nightmare",
+        "spawnWeight": 3,
+        "minPackSize": 1,
+        "maxPackSize": 1
+      },
+	  {
+        "dragonType": "isleofberk:night_fury",
+        "spawnWeight": 3,
         "minPackSize": 1,
         "maxPackSize": 1
       }
@@ -645,19 +693,31 @@
     "biome": "minecraft:eroded_badlands",
     "spawns": [
       {
-        "dragonType": "isleofberk:gronckle",
+        "dragonType": "isleofberk:terrible_terror",
         "spawnWeight": 10,
+        "minPackSize": 2,
+        "maxPackSize": 4
+      },
+	  {
+        "dragonType": "isleofberk:gronckle",
+        "spawnWeight": 8,
         "minPackSize": 1,
         "maxPackSize": 1
       },
       {
         "dragonType": "isleofberk:monstrous_nightmare",
-        "spawnWeight": 5,
+        "spawnWeight": 6,
         "minPackSize": 1,
         "maxPackSize": 1
       },
       {
         "dragonType": "isleofberk:triple_stryke",
+        "spawnWeight": 5,
+        "minPackSize": 1,
+        "maxPackSize": 1
+      },
+	  {
+        "dragonType": "isleofberk:night_fury",
         "spawnWeight": 3,
         "minPackSize": 1,
         "maxPackSize": 1
@@ -668,22 +728,22 @@
     "biome": "minecraft:jungle",
     "spawns": [
       {
-        "dragonType": "isleofberk:deadly_nadder",
+        "dragonType": "isleofberk:monstrous_nightmare",
         "spawnWeight": 7,
         "minPackSize": 2,
         "maxPackSize": 3
       },
       {
-        "dragonType": "isleofberk:zippleback",
+        "dragonType": "isleofberk:triple_stryke",
         "spawnWeight": 5,
         "minPackSize": 1,
-        "maxPackSize": 1
+        "maxPackSize": 2
       },
       {
-        "dragonType": "isleofberk:monstrous_nightmare",
+        "dragonType": "isleofberk:zippleback",
         "spawnWeight": 3,
         "minPackSize": 1,
-        "maxPackSize": 2
+        "maxPackSize": 1
       }
     ]
   },
@@ -691,7 +751,7 @@
     "biome": "minecraft:sparse_jungle",
     "spawns": [
       {
-        "dragonType": "isleofberk:deadly_nadder",
+        "dragonType": "isleofberk:monstrous_nightmare",
         "spawnWeight": 7,
         "minPackSize": 2,
         "maxPackSize": 3
@@ -714,7 +774,7 @@
     "biome": "minecraft:bamboo_jungle",
     "spawns": [
       {
-        "dragonType": "isleofberk:deadly_nadder",
+        "dragonType": "isleofberk:monstrous_nightmare",
         "spawnWeight": 7,
         "minPackSize": 2,
         "maxPackSize": 3
@@ -724,12 +784,6 @@
         "spawnWeight": 5,
         "minPackSize": 1,
         "maxPackSize": 1
-      },
-      {
-        "dragonType": "isleofberk:monstrous_nightmare",
-        "spawnWeight": 3,
-        "minPackSize": 1,
-        "maxPackSize": 2
       }
     ]
   },
@@ -806,16 +860,16 @@
     "biome": "minecraft:beach",
     "spawns": [
       {
-        "dragonType": "isleofberk:terrible_terror",
-        "spawnWeight": 7,
-        "minPackSize": 2,
-        "maxPackSize": 3
-      },
-      {
         "dragonType": "isleofberk:gronckle",
-        "spawnWeight": 5,
+        "spawnWeight": 7,
         "minPackSize": 1,
         "maxPackSize": 2
+      },
+	  {
+        "dragonType": "isleofberk:skrill",
+        "spawnWeight": 5,
+        "minPackSize": 1,
+        "maxPackSize": 1
       },
       {
         "dragonType": "isleofberk:light_fury",
@@ -834,11 +888,11 @@
         "minPackSize": 1,
         "maxPackSize": 2
       },
-      {
-        "dragonType": "isleofberk:gronckle",
+	  {
+        "dragonType": "isleofberk:skrill",
         "spawnWeight": 5,
         "minPackSize": 1,
-        "maxPackSize": 2
+        "maxPackSize": 1
       },
       {
         "dragonType": "isleofberk:light_fury",
@@ -856,6 +910,12 @@
         "spawnWeight": 10,
         "minPackSize": 2,
         "maxPackSize": 3
+      },
+	  {
+        "dragonType": "isleofberk:skrill",
+        "spawnWeight": 7,
+        "minPackSize": 1,
+        "maxPackSize": 1
       },
       {
         "dragonType": "isleofberk:monstrous_nightmare",
