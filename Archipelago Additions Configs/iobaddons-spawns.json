@@ -12,7 +12,7 @@
         "dragonType": "isleofberk:terrible_terror",
         "spawnWeight": 5,
         "minPackSize": 2,
-        "maxPackSize": 3
+        "maxPackSize": 3F
       },
       {
         "dragonType": "isleofberk:stinger",
@@ -849,7 +849,7 @@
         "maxPackSize": 1
       },
       {
-        "dragonType": "isleofberk:light_fury",
+        "dragonType": "isleofberk:skrill",
         "spawnWeight": 3,
         "minPackSize": 1,
         "maxPackSize": 1
