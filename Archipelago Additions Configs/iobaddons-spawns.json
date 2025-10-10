@@ -377,9 +377,9 @@
       },
       {
         "dragonType": "isleofberk:monstrous_nightmare",
-        "spawnWeight": 3,
+        "spawnWeight": 7,
         "minPackSize": 1,
-        "maxPackSize": 1
+        "maxPackSize": 2
       }
     ]
   },
@@ -388,7 +388,7 @@
     "spawns": [
       {
         "dragonType": "isleofberk:skrill",
-        "spawnWeight": 10,
+        "spawnWeight": 7,
         "minPackSize": 1,
         "maxPackSize": 1
       },
@@ -400,9 +400,9 @@
       },
       {
         "dragonType": "isleofberk:monstrous_nightmare",
-        "spawnWeight": 5,
+        "spawnWeight": 10,
         "minPackSize": 1,
-        "maxPackSize": 1
+        "maxPackSize": 2
       }
     ]
   },
