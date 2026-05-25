@@ -2,7 +2,7 @@
 ["Inheritance Chance"]
 	#Defines the chance of dragon inheriting variant of their parents. 1 means variant will always be the same as their parents one
 	#Range: 0.0 ~ 1.0
-	inheritance_chance = 1.0
+	inheritance_chance = 0.0
 
 ["Assign Egg Variant on Breeding"]
 	#Enables variant assignment on breeding. If false, all eggs always will have no variant assigned during breeding
