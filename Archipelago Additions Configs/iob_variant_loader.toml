@@ -4,6 +4,10 @@
 	#Range: 0.0 ~ 1.0
 	inheritance_chance = 0.0
 
+["Alternative Land Navigation"]
+	#Uses alternative improved navigator for dragons when they're on land. If false, default one will be used
+	alternative_land_navigation = true
+
 ["Assign Egg Variant on Breeding"]
 	#Enables variant assignment on breeding. If false, all eggs always will have no variant assigned during breeding
 	assign_egg_variant_on_breeding = true
@@ -27,3 +31,20 @@
 ["Log Extras"]
 	#Logs any added extras in console for easier debugging
 	log_extras = false
+
+["Log Variant Lists"]
+	#Logs any added variant lists in console for easier debugging
+	log_variant_lists = false
+
+["Log Breeding Lists"]
+	#Logs any added breeding lists in console for easier debugging
+	log_breeding_lists = false
+
+["Breeding Lists Use"]
+	#Mandates usage of breeding lists.
+	#IGNORED - breeding lists will be ignored and fallback method will be used (possible variants for pair will be taken from variant spawns).
+	#PRIORITIZED - if breeding list exists for pair, it'll be used with priority, otherwise fallback method will be used
+	#ENFORCED - if no breeding list exists for pair, no egg will be made
+	#
+	#Allowed Values: IGNORED, PRIORITIZED, ENFORCED
+	breeding_lists_use = "ENFORCED"
