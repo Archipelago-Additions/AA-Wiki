@@ -6,7 +6,7 @@
 
 ["Alternative Land Navigation"]
 	#Uses alternative improved navigator for dragons when they're on land. If false, default one will be used
-	alternative_land_navigation = true
+	alternative_land_navigation = false
 
 ["Assign Egg Variant on Breeding"]
 	#Enables variant assignment on breeding. If false, all eggs always will have no variant assigned during breeding
