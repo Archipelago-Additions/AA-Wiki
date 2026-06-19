@@ -47,4 +47,4 @@
 	#ENFORCED - if no breeding list exists for pair, no egg will be made
 	#
 	#Allowed Values: IGNORED, PRIORITIZED, ENFORCED
-	breeding_lists_use = "ENFORCED"
+	breeding_lists_use = "PRIORITIZED"
